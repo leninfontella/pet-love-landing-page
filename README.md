@@ -44,9 +44,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## 🔗 Demonstração
 
-<p align="center">
-  <img alt="Agregador de Links" src="https://i.ibb.co/vC87z81x/Whats-App-Image-2025-04-11-at-20-59-51.jpg" width="30%">
-</p>
+https://petlove-brown.vercel.app/
 
 
 ---
